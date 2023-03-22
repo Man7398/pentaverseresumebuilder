@@ -2,7 +2,10 @@
   <body>
     <h1>Pentaverse-Resume Builder</h1>
     <p>Hosted Link: <a href="https://pentaverserb.netlify.app/" target="_blank">https://pentaverserb.netlify.app</a></p>
-    <p>Welcome to the Resume Builder project! This project was developed by a team of individuals with the goal of helping you create a high-quality and professional resume in just 5 minutes. With the use of cutting-edge technologies and one of the best available resume templates, you can create a resume that accurately reflects your experiences, skills, and achievements.</p>
+    <p>The Resume Builder Project!
+The Resume Builder project is an application that helps individuals create professional-looking resumes easily and efficiently. The goal of this project is to provide users with a user-friendly platform that simplifies the process of creating and formatting a resume.With the use of cutting-edge technologies and one of the best available resume templates, you can create a resume that accurately reflects your experiences, skills, and achievements.
+
+The Resume Builder application will allow users to enter their personal information, including their work experience, education, and skills, into pre-designed templates. The user can then customize the template to match their individual preferences and the specific requirements of the job they are applying for.</p>
     <h2>Team Members</h2>
     <p>The Resume Builder project was developed by a dedicated team of individuals who bring a wealth of experience and expertise to the table. They include:</p>
     <ul>
