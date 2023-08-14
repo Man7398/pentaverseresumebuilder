@@ -12,6 +12,7 @@ The Resume Builder application will allow users to enter their personal informat
       <li>Manvendra Pratap Singh</li>
       <li>Vishal Chandra</li>
       <li>Abhay Vaish</li>
+      <li>Somya Bhardwaj</li>
     </ul>
     <h2>Roadmap</h2>
     <p>The development of the Resume Builder involved several stages, including:</p>
